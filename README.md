@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pKOlJAgR)
 -Nombres: Sarah Sole y Sofia Guevara
--Endpoints: (https://express-101-sosa.vercel.app/user-info/1)(https://express-101-sosa.vercel.app/user-info/2)
+-Endpoints: 
+- (https://express-101-sosa.vercel.app/user-info/1)
+- (https://express-101-sosa.vercel.app/user-info/2)
 
 # Taller en Parejas: Creación de un Endpoint con Express.js
 
